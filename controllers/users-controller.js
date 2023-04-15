@@ -1,5 +1,5 @@
 // Require Users Model
-const {Users} = require('../models');
+const {Users} = require('../models/Index');
 
 // Set up Users Controller
 const usersController = {
