@@ -4,24 +4,23 @@
     "description": "",
     "main": "server.js",
     "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1",
-      "watch": "nodemon server.js"
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "watch": "nodemon server.js"
     },
     "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Beenarob/social-network-api-br.git"
+        "type": "git",
+        "url": "git+https://github.com/Beenarob/social-network-api-br.git"
     },
     "author": "Beena Robert",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/Beenarob/social-network-api-br/issues"
+        "url": "https://github.com/Beenarob/social-network-api-br/issues"
     },
     "homepage": "https://github.com/Beenarob/social-network-api-br#readme",
     "dependencies": {
-      "express": "^4.17.1",
-      "moment": "^2.27.0",
-      "mongoose": "^5.9.23",
-      "nodemon": "^2.0.4"
+        "express": "^4.17.1",
+        "moment": "^2.27.0",
+        "mongoose": "^5.13.17",
+        "nodemon": "^2.0.4"
     }
-  }
-  
+}
